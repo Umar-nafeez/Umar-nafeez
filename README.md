@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Syed%20Umar%20Nafeez&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20%26%20Computer%20Vision%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Syed%20Umar%20Nafeez&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20and%20Computer%20Vision%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/umar-nafeez-syed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:umarnafeez.syed@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
