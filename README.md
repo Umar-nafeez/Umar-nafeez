@@ -6,30 +6,31 @@
 
 </div>
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 ## 👨‍💻 About Me
+
+<img align="right" width="260" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
 class UmarNafeez:
     def __init__(self):
         self.name = "Syed Umar Nafeez G"
-        self.location = "Tiruchirapalli, Tamil Nadu, India"
-        self.degree = "B.Tech in AI & Data Science, 2022-2026"
-        self.role = "Machine Learning & Computer Vision Engineer"
+        self.location = "Chennai, Tamil Nadu"
+        self.degree = "B.Tech AI & DS, 2022-2026"
+        self.role = "ML & Computer Vision Engineer"
 
         self.stack = {
             "languages": ["Python", "SQL", "C++"],
-            "deep_learning": ["PyTorch", "TensorFlow", "CNNs", "Transfer Learning", "GradCAM", "OpenCV"],
-            "machine_learning": ["Scikit-learn", "XGBoost", "LightGBM", "SHAP"],
-            "tools": ["Streamlit", "Git", "GitHub", "Google Colab", "VS Code"]
+            "deep_learning": ["PyTorch", "TensorFlow", "CNNs", "GradCAM"],
+            "machine_learning": ["Scikit-learn", "XGBoost", "SHAP"],
+            "tools": ["Streamlit", "Git", "Colab"]
         }
 
-        self.currently_learning = ["Advanced Explainable AI", "Model Deployment at Scale"]
-        self.fun_fact = "I make black-box models explain themselves with GradCAM & SHAP"
+        self.currently_learning = ["Advanced XAI", "MLOps"]
+        self.fun_fact = "I make black-box models explain themselves"
 
     def motto(self) -> str:
         return "Build it end-to-end, then make it explainable."
+
 
 me = UmarNafeez()
 print(me.motto())
@@ -55,7 +56,7 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/Umar-nafeez"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Umar-nafeez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/></a>
+<a href="https://github.com/Umar-nafeez"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Umar-nafeez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/></a>
 <a href="https://github.com/Umar-nafeez"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-nafeez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/></a>
 
 <img src="https://streak-stats.demolab.com?user=Umar-nafeez&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="streak stats"/>
@@ -67,7 +68,7 @@ print(me.motto())
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Umar-nafeez&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Umar-nafeez&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8"/>
 </div>
 
 ## 💼 Featured Projects
