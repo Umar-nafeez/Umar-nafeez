@@ -14,7 +14,7 @@
 class UmarNafeez:
     def __init__(self):
         self.name = "Syed Umar Nafeez G"
-        self.location = "Chennai, Tamil Nadu"
+        self.location = "Tiruchirappalli, Tamil Nadu"
         self.degree = "B.Tech AI & DS, 2022-2026"
         self.role = "ML & Computer Vision Engineer"
 
@@ -56,19 +56,14 @@ print(me.motto())
 
 <div align="center">
 
-<a href="https://github.com/Umar-nafeez"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Umar-nafeez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/></a>
-<a href="https://github.com/Umar-nafeez"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umar-nafeez&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/></a>
+<!-- Self-hosted via lowlighter/metrics GitHub Action — see .github/workflows/metrics.yml -->
+<img src="https://raw.githubusercontent.com/Umar-nafeez/Umar-nafeez/output/metrics.classic.svg" width="100%"/>
+
+<!-- Self-hosted via Platane/snk GitHub Action — see .github/workflows/snake.yml -->
+<img src="https://raw.githubusercontent.com/Umar-nafeez/Umar-nafeez/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <img src="https://streak-stats.demolab.com?user=Umar-nafeez&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="streak stats"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Umar-nafeez&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Umar-nafeez&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8"/>
 </div>
 
 ## 💼 Featured Projects
