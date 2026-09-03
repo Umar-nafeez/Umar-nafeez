@@ -74,19 +74,6 @@ Predicts 1-year returns for 800+ Indian mutual funds using expense ratio, Sharpe
 
 <br>
 
-### 📊 GitHub Activity
-
-<div align="center">
-
-<!-- Self-hosted via lowlighter/metrics — .github/workflows/metrics.yml -->
-<img src="https://raw.githubusercontent.com/Umar-nafeez/Umar-nafeez/output/metrics.classic.svg" width="100%"/>
-
-<!-- Self-hosted via Platane/snk — .github/workflows/snake.yml -->
-<img src="https://raw.githubusercontent.com/Umar-nafeez/Umar-nafeez/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
-
-<br>
 
 ### 🏅 Achievements
 
